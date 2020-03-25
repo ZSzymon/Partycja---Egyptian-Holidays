@@ -1,0 +1,1 @@
+A wiec tak musisz zaktualizowac Post Processing z packet Menadzera 3.03 wersja chyba. Standardowe Assety (jezeli wywwala bledy popraw dwa skrypty ktore rzucaja error. Uzyte tez sa Particle Efekty od Unity. jezeli ich nie znajdziesz podesle link, ale sa w assetach. )
